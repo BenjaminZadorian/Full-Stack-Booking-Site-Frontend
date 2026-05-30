@@ -1,6 +1,6 @@
 # Full Stack Coursework - Frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the frontend code repository of an example website.  The style of this website is that of an after school activities booking site.
 
 ## Recommended IDE Setup
 
